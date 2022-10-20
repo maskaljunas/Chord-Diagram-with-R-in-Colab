@@ -1,4 +1,4 @@
-# chord_diagram_withR
+# Chord Diagram with R in Google Colab
 Generate a Chord Diagram based on R in Google Colab without installing R. It can be used for nice Visualization of Flows or Connection between Items.
 
 
